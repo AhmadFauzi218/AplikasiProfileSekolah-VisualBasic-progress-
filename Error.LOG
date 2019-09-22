@@ -1,0 +1,7 @@
+
+Fatal Error in Converter: 
+Error: Invalid subscript reference.
+Error Number: 31
+Method: rptconvert
+Offending Code: DIMENSION ...
+File being processed: e:\newsfd\projectvb\form1.frx
